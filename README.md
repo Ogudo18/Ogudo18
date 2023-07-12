@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ogudo18
+- 👋 Hi, I’m Tochukwu Ogudo
 - 👀 I’m interested in ... data analytics 
-- 🌱 I’m currently learning ... sql
+- 🌱 I’m currently learning ... phython 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
